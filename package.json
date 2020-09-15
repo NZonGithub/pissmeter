@@ -1,0 +1,27 @@
+{
+  "name": "pissmeter",
+  "version": "1.0.0",
+  "description": "Michael Reeves, your chat is stupid! You can just run everything from nodejs. Here's my example.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "michael",
+    "reeves",
+    "noud",
+    "zandbergen",
+    "piss",
+    "flowmeter",
+    "raspberry",
+    "pi",
+    "gpio"
+  ],
+  "author": "Noud Zandbergen",
+  "license": "The Unlicense",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pigpio": "^3.2.3",
+    "socket.io": "^2.3.0"
+  }
+}
